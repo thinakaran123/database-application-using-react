@@ -1,5 +1,9 @@
 # User Management React App
 
+
+![output](https://github.com/thinakaran123/database-application-using-react/blob/main/Screenshot%20(62).png
+)
+
 This is a simple User Management application built using React. It fetches a list of users from an API, displays them in a table, and allows you to add new users and delete existing ones.
 
 ## Features
